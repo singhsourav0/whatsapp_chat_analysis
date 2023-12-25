@@ -84,6 +84,14 @@ def emoji_helper(selected_user, df):
         df = df[df['user'] == selected_user]
 
     emojis = []
+for message in df['message']:
+    try:
+        emojis.extend([c for c in message if c in emoji.UNICODE_EMOJI.get('en', emoji.UNICODE_EMOJI['default'])])
+    except Exception as e:
+        print(f"Error processing message: {e}")
+
+emoji_df = pd.DataFrame(Counter(emojis).most_common(len(Counter(emojis))))
+
     for message in df['message']:
         emojis.extend([c for c in message if c in emoji.UNICODE_EMOJI.get('en', emoji.UNICODE_EMOJI['default'])])
 
