@@ -1,7 +1,7 @@
 # WhatsApp Chat Analyzer
 
-![WhatsApp Chat Analyzer](<screenshot-url>)
-![WhatsApp Chat Analyzer](<screenshot-url>)
+![WhatsApp Chat Analyzer](<https://github.com/singhsourav0/whatsapp_chat_analysis/blob/main/images/Screenshot_2023-12-27_13_31_25.png>)
+![WhatsApp Chat Analyzer](<https://github.com/singhsourav0/whatsapp_chat_analysis/blob/main/images/1.png>)
 
 
 
