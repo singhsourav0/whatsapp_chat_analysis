@@ -2,7 +2,7 @@
 
 ![WhatsApp Chat Analyzer](<https://github.com/singhsourav0/whatsapp_chat_analysis/blob/main/images/Screenshot_2023-12-27_13_31_25.png>)
 ![WhatsApp Chat Analyzer](<https://github.com/singhsourav0/whatsapp_chat_analysis/blob/main/images/1.png>)
-
+https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cJgYd0SQvS6Byfcm5DU-aA.png
 
 
 ## Overview
@@ -30,5 +30,5 @@ The WhatsApp Chat Analyzer is a powerful tool designed to extract insights and p
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/singhsourav0/whatsapp_chat_analysis>
+   git clone https://github.com/singhsourav0/whatsapp_chat_analysis
    cd whatsapp_chat_analysis
